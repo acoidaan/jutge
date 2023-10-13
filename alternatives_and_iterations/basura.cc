@@ -1,17 +1,31 @@
 #include <iostream>
+#include <string>
 
 int main() {
-    int num1{};
-    int num2{};
-    std::cin >> num1 >> num2;
+    int num;
+    std::cin >> num;
 
-    if (num1 <= num2) {
-        std::cout << num1;
-        for (int i = num1 + 1; i <= num2; i++) {
-            std::cout << "," << i;
+    if (num == 0) {
+        std::cout << "00" << std::endl;
+    } else {
+        std::string hex;
+        while (num > 0) {
+            int remainder = num % 16;
+            if (remainder < 10) {
+                hex = char('0' + remainder) + hex;
+            } else {
+                hex = char('A' + remainder - 10) + hex;
+            }
+            num /= 16;
         }
+
+        // Invertir la representación hexadecimal
+        std::string reversedHex;
+        for (int i = hex.size() - 1; i >= 0; --i) {
+            reversedHex += hex[i];
+        }
+        std::cout << reversedHex << std::endl;
     }
-    std::cout << std::endl;
 
     return 0;
 }
