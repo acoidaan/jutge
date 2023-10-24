@@ -21,19 +21,10 @@ int main() {
     for(int i = num1; i >= num2; i--) {
     std::cout << i << std::endl;
     }
-
-
   } else {
       for(int i =num2; i >= num1; i--) {
       std::cout << i << std::endl;
       }
     }
-
-
-
-
-
-
-
   return 0;
 }
