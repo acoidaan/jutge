@@ -22,7 +22,7 @@ int main() {
     std::cout << i << std::endl;
     }
   } else {
-      for(int i =num2; i >= num1; i--) {
+      for(int i = num2; i >= num1; i--) {
       std::cout << i << std::endl;
       }
     }
