@@ -12,31 +12,30 @@
 */
 
 #include <iostream>
-void factor(int n, int& f, int& q) {
-  f = 2;
-  q = 0;
-  int count = 0;
-  for (int i = 2; i <= n; ++i) {
-    if (n % i == 0) {
-      int temp_count = 0;
-      int temp_n = n;
-      while (temp_n % i == 0) {
-        ++temp_count;
-        temp_n /= i;
-      }
-      if (temp_count > count || (temp_count == count && i < f)) {
-        f = i;
-        count = temp_count;
-      }
+void factor(int n, int &f, int &q) {
+  int i{2};
+  q = 1;
+  f = n;
+  while (i * i <= n) {
+    int j{0};
+    while (n % i == 0 & n != 0) {
+      ++j;
+      n /= i;
     }
-  }
-  q = count;
+    if ( j > q || (j == q && f > i)) {
+      q = j;
+      f = i;
+    }
+    ++i;
+    }
 }
 
 int main() {
-  int n, f, q;
-  std::cin >> n;
-  factor(n, f, q);
-  std::cout << f << ' ' << q << std::endl;
+  int kNumero{0};
+  while (std::cin >> kNumero) {
+    int kFrecuence{0}, kQuantity{0};
+    factor(kNumero, kFrecuence, kQuantity);
+    std::cout << kFrecuence << ' ' << kQuantity << std::endl;
+  }
   return 0;
 }
