@@ -21,7 +21,7 @@ Si encuentras algún error o mejora, <ins><b>como un archivo faltante o en una c
 - [Functions](https://github.com/acoidaan/jutge/tree/master/functions)
 - [Functions (2)](https://github.com/acoidaan/jutge/tree/master/functions_2)
 - [Arrays](https://github.com/acoidaan/jutge/tree/master/arrays)
-- [Secuencias](https://github.com/acoidaan/jutge/tree/master/secuencias) **está en proceso...**
+- [Secuencias](https://github.com/acoidaan/jutge/tree/master/secuencias) **(41.66%).**
 
 ## Colaboradores
 
