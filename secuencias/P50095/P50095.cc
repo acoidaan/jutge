@@ -19,4 +19,5 @@ int main() {
     for (j = i + 2; !isPrime(j); j += 2);
     cout << j << endl;
   }
+  return 0;
 }
