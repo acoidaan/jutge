@@ -49,5 +49,6 @@
     "map": "cpp",
     "string_view": "cpp",
     "numbers": "cpp"
-  }
+  },
+  "C_Cpp_Runner.msvcBatchPath": ""
 }
