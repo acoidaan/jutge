@@ -23,7 +23,7 @@ Si encuentras algún error o mejora, <ins><b>como un archivo faltante o en una c
 - [Arrays](https://github.com/acoidaan/jutge/tree/master/arrays)
 - [Secuencias](https://github.com/acoidaan/jutge/tree/master/secuencias) **(41.66%).**
 
-## Colaboradoreshttps://github.com/guillrl1
+## Colaboradores
 
 - [@acoidaan](https://www.github.com/acoidaan)
 - [@guillrl1](https://github.com/guillrl1)
