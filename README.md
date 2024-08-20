@@ -26,6 +26,7 @@ Si encuentras algún error o mejora, <ins><b>como un archivo faltante o en una c
 ## Colaboradores
 
 - [@acoidaan](https://www.github.com/acoidaan)
+- [@guillrl1](https://github.com/guillrl1)
 
 ## 🚀 Sobre mí
 
