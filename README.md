@@ -1,7 +1,7 @@
 # Soluciones Jutge Informática Básica 23-24
 
 > [!CAUTION]
-> Este repositorio contiene mis soluciones, asegúrate de comprobar siempre el código, que mis soluciones sean correctas no significan que sean las mejores o más óptimas.
+> Este repositorio contiene mis soluciones, asegúrate de comprobar siempre el código. Que mis soluciones sean correctas no significa que sean las mejores o más óptimas.
 
 Ten en cuenta que:
 
