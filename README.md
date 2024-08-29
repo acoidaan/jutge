@@ -14,13 +14,13 @@ Si encuentras algún error o mejora, <ins><b>como un archivo faltante o en una c
 
 ## Features
 
-- [First Programs](https://github.com/acoidaan/jutge/tree/master/first-programs)
-- [Alternatives](https://github.com/acoidaan/jutge/tree/master/alternatives)
-- [Alternatives and Iterations](https://github.com/acoidaan/jutge/tree/master/alternatives_and_iterations)
-- [Iterations (2)](https://github.com/acoidaan/jutge/tree/master/iterations_2)
-- [Functions](https://github.com/acoidaan/jutge/tree/master/functions)
-- [Functions (2)](https://github.com/acoidaan/jutge/tree/master/functions_2)
-- [Arrays](https://github.com/acoidaan/jutge/tree/master/arrays)
+- [First Programs](https://github.com/acoidaan/jutge/tree/master/first-programs) **(100.00%).**
+- [Alternatives](https://github.com/acoidaan/jutge/tree/master/alternatives) **(100.00%).**
+- [Alternatives and Iterations](https://github.com/acoidaan/jutge/tree/master/alternatives_and_iterations) **(100.00%).**
+- [Iterations (2)](https://github.com/acoidaan/jutge/tree/master/iterations_2) **(100.00%).**
+- [Functions](https://github.com/acoidaan/jutge/tree/master/functions) **(100.00%).**
+- [Functions (2)](https://github.com/acoidaan/jutge/tree/master/functions_2) **(100.00%).**
+- [Arrays](https://github.com/acoidaan/jutge/tree/master/arrays) **(100.00%).**
 - [Secuencias](https://github.com/acoidaan/jutge/tree/master/secuencias) **(83.33%).**
 
 ## Colaboradores
