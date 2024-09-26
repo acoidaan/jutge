@@ -8,6 +8,10 @@ Ten en cuenta que:
 > [!IMPORTANT]  
 > Este repositorio contiene los problemas resueltos de Jutge para el curso de **Informática Básica 2023-2024**.
 
+## ⭐ ¡Apoya este repositorio! ⭐
+
+Si este repositorio te ha sido útil, considera darle una ⭐ para que otros estudiantes puedan encontrarlo. Se agradece mucho el apoyo.
+
 ## Feedback
 
 Si encuentras algún error o mejora, <ins><b>como un archivo faltante o en una carpeta equivocada</ins></b> , no dudes en contactarme por correo o cualquier red social.
