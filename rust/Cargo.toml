@@ -12,3 +12,63 @@ path = "src/bin/first-programs/P68688/main.rs"
 [[bin]]
 name ="P41221"
 path = "src/bin/first-programs/P41221/main.rs"
+
+[[bin]]
+name = "P48107"
+path = "src/bin/first-programs/P48107/main.rs"
+
+[[bin]]
+name = "P57548"
+path = "src/bin/first-programs/P57548/main.rs"
+
+[[bin]]
+name = "P58294"
+path = "src/bin/first-programs/P58294/main.rs"
+
+[[bin]]
+name = "P70955"
+path = "src/bin/first-programs/P70955/main.rs"
+
+[[bin]]
+name = "P92351"
+path = "src/bin/first-programs/P92351/main.rs"
+
+[[bin]]
+name = "P15613"
+path = "src/bin/alternatives/P15613/main.rs"
+
+[[bin]]
+name = "P34279"
+path = "src/bin/alternatives/P34279/main.rs"
+
+[[bin]]
+name = "P37469"
+path = "src/bin/alternatives/P37469/main.rs"
+
+[[bin]]
+name = "P42042"
+path = "src/bin/alternatives/P42042/main.rs"
+
+[[bin]]
+name = "P52847"
+path = "src/bin/alternatives/P52847/main.rs"
+
+[[bin]]
+name = "P56118"
+path = "src/bin/alternatives/P56118/main.rs"
+
+[[bin]]
+name = "P59539"
+path = "src/bin/alternatives/P59539/main.rs"
+
+[[bin]]
+name = "P90615"
+path = "src/bin/alternatives/P90615/main.rs"
+
+[[bin]]
+name = "P97156"
+path = "src/bin/alternatives/P97156/main.rs"
+
+[[bin]]
+name = "P98960"
+path = "src/bin/alternatives/P98960/main.rs"
