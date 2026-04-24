@@ -27,7 +27,11 @@
   // }
   "Cargo bin": {
     "prefix": "abin",
-    "body": ["[[bin]]", "name = \"$1\"", "path = \"src/bin/$2/$1/main.rs\""],
+    "body": [
+      "[[bin]]",
+      "name = \"${1:problema}\"",
+      "path = \"src/bin/${2:carpeta}/${1:problema}/main.rs\"",
+    ],
     "description": "Creates a bin in Cargo.toml",
   },
 }

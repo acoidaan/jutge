@@ -72,3 +72,27 @@ path = "src/bin/alternatives/P97156/main.rs"
 [[bin]]
 name = "P98960"
 path = "src/bin/alternatives/P98960/main.rs"
+
+[[bin]]
+name = "P28754"
+path = "src/bin/alternatives_and_iterations/P28754/main.rs"
+
+[[bin]]
+name = "P29448"
+path = "src/bin/alternatives_and_iterations/P29448/main.rs"
+
+[[bin]]
+name = "P31170"
+path = "src/bin/alternatives_and_iterations/P31170/main.rs"
+
+[[bin]]
+name = "P35547"
+path = "src/bin/alternatives_and_iterations/P35547/main.rs"
+
+[[bin]]
+name = "P36668"
+path = "src/bin/alternatives_and_iterations/P36668/main.rs"
+
+[[bin]]
+name = "P37500"
+path = "src/bin/alternatives_and_iterations/P37500/main.rs"
