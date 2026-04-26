@@ -128,3 +128,43 @@ path = "src/bin/alternatives_and_iterations/P59875/main.rs"
 [[bin]]
 name = "P60816"
 path = "src/bin/alternatives_and_iterations/P60816/main.rs"
+
+[[bin]]
+name = "P61634"
+path = "src/bin/alternatives_and_iterations/P61634/main.rs"
+
+[[bin]]
+name = "P62421"
+path = "src/bin/alternatives_and_iterations/P62421/main.rs"
+
+[[bin]]
+name = "P67723"
+path = "src/bin/alternatives_and_iterations/P67723/main.rs"
+
+[[bin]]
+name = "P69277"
+path = "src/bin/alternatives_and_iterations/P69277/main.rs"
+
+[[bin]]
+name = "P72986"
+path = "src/bin/alternatives_and_iterations/P72986/main.rs"
+
+[[bin]]
+name = "P78142"
+path = "src/bin/alternatives_and_iterations/P78142/main.rs"
+
+[[bin]]
+name = "P79784"
+path = "src/bin/alternatives_and_iterations/P79784/main.rs"
+
+[[bin]]
+name = "P81629"
+path = "src/bin/alternatives_and_iterations/P81629/main.rs"
+
+[[bin]]
+name = "P89265"
+path = "src/bin/alternatives_and_iterations/P89265/main.rs"
+
+[[bin]]
+name = "P90226"
+path = "src/bin/alternatives_and_iterations/P90226/main.rs"
