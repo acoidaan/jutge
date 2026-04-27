@@ -168,3 +168,15 @@ path = "src/bin/alternatives_and_iterations/P89265/main.rs"
 [[bin]]
 name = "P90226"
 path = "src/bin/alternatives_and_iterations/P90226/main.rs"
+
+[[bin]]
+name = "P92613"
+path = "src/bin/alternatives_and_iterations/P92613/main.rs"
+
+[[bin]]
+name = "P96767"
+path = "src/bin/alternatives_and_iterations/P96767/main.rs"
+
+[[bin]]
+name = "P97969"
+path = "src/bin/alternatives_and_iterations/P97969/main.rs"
